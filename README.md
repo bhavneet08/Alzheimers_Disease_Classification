@@ -49,7 +49,7 @@ Performance was evaluated using **accuracy, precision, recall, and F1 score**, w
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/bhavneet08/Alzheimers_Disease_Classification
    cd Alzheimers_Disease_Classification
 2. Create and activate a Python environment (recommended):
    ```bash
