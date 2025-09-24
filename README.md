@@ -6,7 +6,7 @@ Alzheimer’s disease prediction plays a critical role in **early intervention a
 
 ---
 
-## Dataset
+## 🧠 Dataset
 
 - **Source**: [Alzheimer’s Disease Neuroimaging Initiative (ADNI)](http://adni.loni.usc.edu/)  
 - **Data types**: multimodal neuroimaging, clinical, genetic, and demographic data  
@@ -17,7 +17,7 @@ Alzheimer’s disease prediction plays a critical role in **early intervention a
 
 ---
 
-## Models Implemented
+## 🏗️ Models Implemented
 
 The repository contains multiple Jupyter Notebooks exploring different modeling approaches:
 
@@ -30,7 +30,7 @@ The repository contains multiple Jupyter Notebooks exploring different modeling 
 
 ---
 
-## Results
+## 📊 Results
 
 Performance was evaluated using **accuracy, precision, recall, and F1 score**, with **k-fold cross-validation** for robustness.  
 
@@ -45,11 +45,11 @@ Performance was evaluated using **accuracy, precision, recall, and F1 score**, w
 
 ---
 
-##  Installation & Setup
+## ⚙️ Installation & Setup
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/bhumi1306/Alzheimers_Disease_Classification.git
+   git clone 
    cd Alzheimers_Disease_Classification
 2. Create and activate a Python environment (recommended):
    ```bash
@@ -63,10 +63,12 @@ Performance was evaluated using **accuracy, precision, recall, and F1 score**, w
 4. Open Jupyter Notebook to explore models:
    jupyter notebook
    
-## Usage
+🚀 Usage
+* Open any notebook of interest (e.g., CNN.ipynb, InceptionV3.ipynb)
+* Ensure the ADNI dataset is properly downloaded and preprocessed (dataset access requires request & approval)
+* Modify hyperparameters, model layers, and preprocessing steps as needed
 
-Run any notebook of interest (e.g., CNN.ipynb, InceptionV3.ipynb).
-
-Ensure the dataset is properly downloaded and preprocessed (ADNI dataset requires request & approval).
-
-Modify hyperparameters, model layers, and preprocessing steps as needed.
+  
+📚 References
+* [ADNI: Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/)
+* Deep Learning frameworks: TensorFlow, Keras, PyTorch
